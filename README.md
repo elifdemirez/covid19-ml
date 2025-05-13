@@ -69,7 +69,7 @@ Bu yaklaşımı tercih etme nedenlerim:
 
 ## ✅ Sonuçlar
 
-### 🎯 Model Başarımı (Test Verisi Üzerinde)
+### 🎯 Model Başarımı 
 
 - **Test Accuracy:** 0.84  
 - **Confusion Matrix:**
@@ -88,7 +88,8 @@ Bu yaklaşımı tercih etme nedenlerim:
     accuracy                           0.98        53
    macro avg       0.99      0.93      0.96        53
 weighted avg       0.98      0.98      0.98        53
-  ```
+```
+  
 -**
 
 ---
